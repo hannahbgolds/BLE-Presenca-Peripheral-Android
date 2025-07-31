@@ -1,0 +1,39 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local properties (caminhos locais, não versionáveis)
+local.properties
+
+# Logs
+*.log
+
+# Arquivos temporários e caches
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de build auxiliares
+captures/
+outputs/
+
+# Arquivos de teste
+test-output/
+
+# Jetpack Compose
+.compose-cache/
+
+# Gerado automaticamente por Android Studio
+.cxx/
+.externalNativeBuild/
