@@ -44,8 +44,9 @@ Instalação via terminal (macOS):
 ```bash
 brew install openjdk@17
 brew install gradle
+```
 
-### 🔓 Ativando o modo desenvolvedor no celular Android
+## 🔓 Ativando o modo desenvolvedor no celular Android
 
 1. Abra **Configurações** no seu dispositivo Android  
 2. Vá até **Sobre o telefone**  
